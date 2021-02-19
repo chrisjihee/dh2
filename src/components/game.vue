@@ -208,8 +208,9 @@
           <div class="line">
             <Key
               label="ESC"
-              @keydown="keydown('Escape')"
-              @keyup="keyup('Escape')"
+              sublabel="T"
+              @keydown="keydown('KeyT')"
+              @keyup="keyup('KeyT')"
             />
           </div>
           <div class="line">
@@ -304,6 +305,7 @@ const KEY_MAPS: Record<string, number> = {
   KeyE: 109, // -
   KeyW: 106, // *
   KeyQ: 111, // /
+  KeyT: 27, // Escape
 
   // Special
   ArrowLeftDown: 97,
