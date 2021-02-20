@@ -77,20 +77,6 @@
           </svg>
         </a>
       </div>
-      <!--
-      <a class="tool-item tool-mute-off icon">
-        <svg version="1.1" viewBox="0 0 128 128">
-          <path d="M64,88.613c6.77,0 12.563,-2.41 17.384,-7.228c4.819,-4.819 7.229,-10.616 7.229,-17.385l0,-39.384c0,-6.77 -2.408,-12.564 -7.229,-17.385c-4.821,-4.819 -10.614,-7.231 -17.384,-7.231c-6.77,0 -12.564,2.412 -17.385,7.231c-4.821,4.82 -7.231,10.615 -7.231,17.385l0,39.384c0,6.769 2.411,12.566 7.231,17.385c4.82,4.818 10.615,7.228 17.385,7.228Z" />
-          <path d="M106.844,50.692c-0.971,-0.974 -2.128,-1.462 -3.461,-1.462c-1.332,0 -2.486,0.488 -3.461,1.462c-0.974,0.975 -1.461,2.128 -1.461,3.461l0,9.847c0,9.487 -3.373,17.602 -10.116,24.346c-6.742,6.743 -14.858,10.115 -24.346,10.115c-9.487,0 -17.602,-3.372 -24.346,-10.115c-6.743,-6.742 -10.115,-14.858 -10.115,-24.346l0,-9.847c0,-1.333 -0.487,-2.486 -1.461,-3.461c-0.975,-0.974 -2.127,-1.462 -3.461,-1.462c-1.335,0 -2.489,0.488 -3.463,1.462c-0.974,0.975 -1.462,2.128 -1.462,3.461l0,9.847c0,11.333 3.783,21.193 11.347,29.576c7.563,8.384 16.909,13.192 28.038,14.422l0,10.154l-19.692,0c-1.333,0 -2.487,0.488 -3.461,1.463c-0.975,0.974 -1.462,2.128 -1.462,3.461c0,1.331 0.487,2.488 1.462,3.462c0.974,0.973 2.128,1.462 3.461,1.462l49.229,0c1.333,0 2.489,-0.488 3.462,-1.462c0.975,-0.974 1.463,-2.13 1.463,-3.462c0,-1.333 -0.488,-2.487 -1.463,-3.461c-0.973,-0.975 -2.128,-1.463 -3.462,-1.463l-19.689,0l0,-10.154c11.127,-1.23 20.472,-6.038 28.036,-14.422c7.565,-8.383 11.349,-18.243 11.349,-29.576l0,-9.847c0,-1.332 -0.489,-2.485 -1.465,-3.461Z" />
-        </svg>
-      </a>
-      <a class="tool-item tool-mute-on icon">
-        <svg version="1.1" viewBox="0 0 128 128">
-          <path d="M30.693,72.691c-0.769,-3.077 -1.154,-5.974 -1.154,-8.692l0,-9.847c0,-1.333 -0.487,-2.487 -1.461,-3.461c-0.975,-0.975 -2.128,-1.462 -3.461,-1.462c-1.335,0 -2.489,0.488 -3.463,1.462c-0.974,0.974 -1.462,2.128 -1.462,3.461l0,9.846c0,5.693 1.078,11.18 3.231,16.464l7.77,-7.771Z" />
-          <path d="M64,88.612c6.769,0 12.565,-2.41 17.383,-7.229c4.82,-4.818 7.231,-10.615 7.231,-17.384l0,-9.847l27.769,-27.768c0.512,-0.513 0.768,-1.103 0.768,-1.769c0,-0.667 -0.256,-1.257 -0.768,-1.769l-6.307,-6.308c-0.514,-0.514 -1.104,-0.77 -1.77,-0.77c-0.666,0 -1.256,0.256 -1.768,0.77l-94.921,94.921c-0.513,0.513 -0.769,1.103 -0.769,1.768c0,0.668 0.256,1.258 0.769,1.77l6.307,6.308c0.513,0.513 1.103,0.768 1.769,0.768c0.667,0 1.257,-0.255 1.77,-0.768l19.538,-19.538c5.64,3.488 11.666,5.565 18.076,6.231l0,10.154l-19.692,0c-1.333,0 -2.488,0.488 -3.461,1.463c-0.975,0.973 -1.463,2.128 -1.463,3.461c0,1.331 0.488,2.488 1.463,3.461c0.973,0.974 2.128,1.463 3.461,1.463l49.229,0c1.333,0 2.487,-0.489 3.461,-1.463c0.975,-0.973 1.462,-2.129 1.462,-3.461c0,-1.333 -0.487,-2.488 -1.462,-3.461c-0.974,-0.975 -2.128,-1.463 -3.461,-1.463l-19.692,0l0,-10.154c11.128,-1.23 20.473,-6.038 28.038,-14.421c7.563,-8.384 11.346,-18.243 11.346,-29.576l0,-9.849c0,-1.333 -0.488,-2.486 -1.461,-3.461c-0.976,-0.974 -2.129,-1.461 -3.462,-1.461c-1.333,0 -2.487,0.487 -3.462,1.461c-0.974,0.975 -1.461,2.128 -1.461,3.461l0,9.847c0,9.487 -3.373,17.602 -10.115,24.344c-6.743,6.743 -14.859,10.115 -24.346,10.115c-5.538,0 -10.794,-1.306 -15.769,-3.923l7.385,-7.382c2.771,0.974 5.565,1.459 8.385,1.459Z" />
-          <path d="M78.192,4.539c-4.231,-3.025 -8.962,-4.539 -14.192,-4.539c-6.769,0 -12.565,2.412 -17.384,7.231c-4.82,4.82 -7.23,10.615 -7.23,17.385l0,39.383l47.767,-47.768c-1.744,-4.769 -4.73,-8.666 -8.961,-11.692Z" />
-        </svg>
-      </a> -->
     </div>
     <div
         class="screen"
@@ -103,84 +89,108 @@
       <div class="canvas-container">
         <canvas ref="canvas"></canvas>
       </div>
-      <!-- <div class="dosbox-container">
-        <div class="canvas"></div>
-      </div> -->
       <div class="event-blocker joystick" ref="mobileController"></div>
       <div class="keyboard" v-if="enabledToggleKeyboard">
         <div class="col">
           <div class="line">
             <Key
                 label="/"
-                sublabel="Q"
-                description="Menu 4"
-                @keydown="keydown('KeyQ')"
-                @keyup="keyup('KeyQ')"
+                sublabel="A"
+                @keydown="keydown('KeyA')"
+                @keyup="keyup('KeyA')"
             />
             <Key
                 label="*"
-                sublabel="W"
-                description="Menu 3"
-                @keydown="keydown('KeyW')"
-                @keyup="keyup('KeyW')"
+                sublabel="S"
+                @keydown="keydown('KeyS')"
+                @keyup="keyup('KeyS')"
             />
             <Key
                 label="-"
-                sublabel="E"
-                description="Menu 2"
-                @keydown="keydown('KeyE')"
-                @keyup="keyup('KeyE')"
+                sublabel="D"
+                @keydown="keydown('KeyD')"
+                @keyup="keyup('KeyD')"
+            />
+            <Key
+                label="+"
+                sublabel="F"
+                @keydown="keydown('KeyF')"
+                @keyup="keyup('KeyF')"
             />
           </div>
           <div class="line">
             <Key
                 label="7"
+                sublabel="U"
                 @keydown="keydown('Digit7')"
                 @keyup="keyup('Digit7')"
             />
             <Key
                 label="8"
+                sublabel="I"
                 @keydown="keydown('Digit8')"
                 @keyup="keyup('Digit8')"
             />
             <Key
                 label="9"
+                sublabel="O"
                 @keydown="keydown('Digit9')"
                 @keyup="keyup('Digit9')"
+            />
+            <Key
+                label="="
+                @keydown="keydown('NumpadDecimal')"
+                @keyup="keyup('NumpadDecimal')"
             />
           </div>
           <div class="line">
             <Key
                 label="4"
+                sublabel="J"
                 @keydown="keydown('Digit4')"
                 @keyup="keyup('Digit4')"
             />
             <Key
                 label="5"
+                sublabel="K"
                 @keydown="keydown('Digit5')"
                 @keyup="keyup('Digit5')"
             />
             <Key
                 label="6"
+                sublabel="L"
                 @keydown="keydown('Digit6')"
                 @keyup="keyup('Digit6')"
+            />
+            <Key
+                label="]"
+                @keydown="keydown('PageUp')"
+                @keyup="keyup('PageUp')"
             />
           </div>
           <div class="line">
             <Key
                 label="1"
+                sublabel="M"
                 @keydown="keydown('Digit1')"
                 @keyup="keyup('Digit1')"
             />
             <Key
                 label="2"
+                sublabel=","
                 @keydown="keydown('Digit2')"
                 @keyup="keyup('Digit2')"
             />
             <Key
                 label="3"
+                sublabel="."
                 @keydown="keydown('Digit3')"
                 @keyup="keyup('Digit3')"
+            />
+            <Key
+                label="["
+                @keydown="keydown('PageDown')"
+                @keyup="keyup('PageDown')"
             />
           </div>
           <div class="line">
@@ -190,48 +200,19 @@
                 @keyup="keyup('Digit0')"
             />
             <Key
-                label="["
-                @keydown="keydown('BracketLeft')"
-                @keyup="keyup('BracketLeft')"
+                label="Space"
+                @keydown="keydown('Space')"
+                @keyup="keyup('Space')"
             />
             <Key
-                label="]"
-                @keydown="keydown('BracketRight')"
-                @keyup="keyup('BracketRight')"
-            />
-          </div>
-        </div>
-        <div class="col">
-          <div class="line">
-            <Key
-                label="+"
-                sublabel="R"
-                description="Menu 1"
-                @keydown="keydown('KeyR')"
-                @keyup="keyup('KeyR')"
-            />
-          </div>
-          <div class="line">
-            <Key
-                label="="
-                @keydown="keydown('NumpadEqual')"
-                @keyup="keyup('NumpadEqual')"
-            />
-          </div>
-          <div class="line">
-            <Key
-                label="ESC"
-                sublabel="`"
-                @keydown="keydown('Backquote')"
-                @keyup="keyup('Backquote')"
-            />
-          </div>
-          <div class="line">
-            <Key
-                class="key-row-2"
                 label="Enter"
                 @keydown="keydown('Enter')"
                 @keyup="keyup('Enter')"
+            />
+            <Key
+                label="ESC"
+                @keydown="keydown('Escape')"
+                @keyup="keyup('Escape')"
             />
           </div>
         </div>
@@ -267,6 +248,7 @@ const JOYSTICK_MAPS = [
   'ArrowRight',
 ]
 
+// https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode
 const KEY_MAPS: Record<string, number> = {
   Digit0: 48,
   Digit1: 49,
@@ -290,28 +272,15 @@ const KEY_MAPS: Record<string, number> = {
   Numpad8: 104,
   Numpad9: 105,
 
-  NumpadAdd: 107,
-  NumpadSubtract: 109,
-  NumpadMultiply: 106,
-  NumpadDivide: 111,
-  NumpadEqual: 187,
-  NumpadEnter: 13,
-  NumpadDecimal: 110, // .
-
-  KeyR: 107, // +
-  KeyE: 109, // -
-  KeyW: 106, // *
-  KeyQ: 111, // /
-
-  PageUp: 33,
-  PageDown: 34,
-  BracketRight: 33, // PageUp
-  BracketLeft: 34, // PageDown
-
-  Enter: 13, // Enter
-  Space: 32, // Space
-  Escape: 27, // Escape
-  Backquote: 27, // Escape
+  KeyM: 97, // 1
+  Comma: 98, // 2
+  Period: 99, // 3
+  KeyJ: 100, // 4
+  KeyK: 101, // 5
+  KeyL: 102, // 6
+  KeyU: 103, // 7
+  KeyI: 104, // 8
+  KeyO: 105, // 9
 
   ArrowLeft: 100,
   ArrowUp: 104,
@@ -321,6 +290,28 @@ const KEY_MAPS: Record<string, number> = {
   ArrowRightDown: 99,
   ArrowLeftUp: 103,
   ArrowRightUp: 105,
+
+  NumpadAdd: 107,
+  NumpadSubtract: 109,
+  NumpadMultiply: 106,
+  NumpadDivide: 111,
+  NumpadDecimal: 110,
+
+  KeyA: 111, // /
+  KeyS: 106, // *
+  KeyD: 109, // -
+  KeyF: 107, // +
+
+  PageUp: 33,
+  PageDown: 34,
+  BracketRight: 33, // PageUp
+  BracketLeft: 34, // PageDown
+
+  NumpadEnter: 13,
+  Enter: 13, // Enter
+  Space: 32, // Space
+  Escape: 27, // Escape
+  CapsLock: 27, // Escape
 }
 
 export default Vue.extend({
